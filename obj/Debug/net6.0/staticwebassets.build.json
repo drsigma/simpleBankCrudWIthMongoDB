@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7IyI8X7Usaz0gfWwAAMdBy2fRyOfSYS1LGF1s8nEZDA=",
+  "Source": "simpleBankWithMongoDB",
+  "BasePath": "_content/simpleBankWithMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
